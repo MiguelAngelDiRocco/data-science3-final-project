@@ -450,7 +450,7 @@ Este sistema puede implementarse en:
 - 🐱 GitHub: [github.com/MiguelAngelDiRocco](https://github.com/MiguelAngelDiRocco)
 
 ### Otros Proyectos
-- [Sistema de Predicción de Calidad del Aire (PM2.5)](https://github.com/MiguelAngelDiRocco) - Data Science II
+- [Sistema de Predicción de Calidad del Aire (PM2.5)](https://github.com/MiguelAngelDiRocco/data-science2-final-project) - Data Science II
 
 ---
 
