@@ -456,7 +456,7 @@ Este sistema puede implementarse en:
 
 ## 🙏 Agradecimientos
 
-- **Profesor Eze** - Coderhouse Data Science III
+- **Profesor Ezequiel Juan Bassano** - Coderhouse Data Science III
 - **Kaggle** - Por proveer el dataset Amazon Fine Food Reviews
 - **Comunidad de Data Science** - Por recursos y guías
 
